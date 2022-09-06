@@ -13,5 +13,8 @@ Let's play a quick reaction game!
     
     else: 
         print("You lose")
+        
+  M=input()
+   print("Hi everyone")
    
    
